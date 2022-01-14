@@ -1,0 +1,39 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px;
+	background-color: palevioletred; 
+}
+#sort_button
+{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color: plum;
+}
+#srch
+{
+	
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color: aqua;
+}
+#show
+{
+	
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	background-color: yellow;
+}
+
+
+input
+{
+	margin: 10px;
+}
+body{
+	background-image: url("people.jpg");
+
+	background-position: center;
+	color:red
+}
